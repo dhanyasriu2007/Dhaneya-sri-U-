@@ -1,6 +1,11 @@
 # Dhaneya-sri-U-
 3D Electromagnetic Field Simulation Using CST Studio Suite
 
+Project Description:
+
+This project analyzes 3D electric field distribution using CST Studio Suite at different frequencies.
+Objectives:
+
 Objectives:
 
 Simulate electromagnetic fields in 3D.
